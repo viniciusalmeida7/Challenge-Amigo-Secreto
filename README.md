@@ -1,5 +1,4 @@
 <h1 align ="center">Desafio da formação Oracle Next Education 8</h1>
-![GitHub last commit](https://img.shields.io/github/last-commit/viniciusalmeida7/Challenge-Amigo-Secreto)
 
 # Descrição
 O <em>challenge</em> amigo secreto é um desafio proposto na formação Oracle Next Education (ONE) 8 com o objetivo de verificar as habilidades de programação <em>web</em> assimiladas durante o curso.

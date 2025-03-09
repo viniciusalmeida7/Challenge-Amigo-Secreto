@@ -13,3 +13,8 @@ A ideia do desafio é desenvolver uma aplicação para sortear alguém de uma li
 
 ![Funcionamento da aplicação](https://s1.ezgif.com/tmp/ezgif-188bf6d03e0871.gif)
 
+# Tecnologias utilizadas
+- `Visual Studio Code`
+- `HTML`
+- `CSS`
+- `Javascript`
